@@ -9,7 +9,7 @@ Anumad is the reference full node Anuma Testnet implementation written in Go (go
 
 ## What is anuma
 
-Anuma is an attempt at a proof-of-work cryptocurrency with instant confirmations and sub-second block times. It is based on [the PHANTOM protocol](https://eprint.iacr.org/2018/104.pdf), a generalization of Nakamoto consensus.
+Anuma is a Kaspa-based asset, a proof-of-work cryptocurrency with instant confirmations and sub-second block times. It is based on [the PHANTOM protocol](https://eprint.iacr.org/2018/104.pdf), a generalization of Nakamoto consensus.
 
 ## Requirements
 
