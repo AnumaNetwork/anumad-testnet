@@ -51,7 +51,7 @@ $ anumad
 ```
 
 ## Discord
-Join our discord server using the following link: https://discord.gg/
+Join our discord server using the following link: https://discord.gg/8ZT93HctbQ
 
 ## License
 
