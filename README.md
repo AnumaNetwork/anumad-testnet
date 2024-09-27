@@ -41,7 +41,7 @@ $ go install . ./cmd/...
   you are encouraged to do so now, you can do it with the following commands:
 
 ```bash
-export PATH=$PATH:/home/YOURUSER/go/bin
+$ export PATH=$PATH:/home/YOURUSER/go/bin
 ```
 
 For more information, please visit:
