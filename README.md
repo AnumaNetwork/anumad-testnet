@@ -47,7 +47,7 @@ Anumad has several configuration options available to tweak how it runs, but all
 of the basic operations work with zero configuration.
 
 ```bash
-$ anumad
+$ anumad --testnet
 ```
 
 ## Discord
