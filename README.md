@@ -40,7 +40,7 @@ $ go install . ./cmd/...
   not already add the bin directory to your system path during Go installation,
   you are encouraged to do so now, you can do it with the following commands:
 
-  ```bash
+```bash
 $ export PATH=$PATH:/home/YOURUSER/go/bin
 ```
 
