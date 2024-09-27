@@ -25,21 +25,27 @@ Go 1.20 or later.
 - Ensure Go was installed properly and is a supported version:
 
 ```bash
-$ go version
+go version
 ```
 
 - Run the following commands to obtain and install anumad including all dependencies:
 
 ```bash
-$ git clone https://github.com/AnumaNetwork/anumad-testnet
-$ cd anumad-testnet
-$ go install . ./cmd/...
+git clone https://github.com/AnumaNetwork/anumad-testnet
+cd anumad-testnet
+go install . ./cmd/...
 ```
 
-- Anumad (and utilities) should now be installed in `$(go env GOPATH)/bin`. If you did
+- Anumad (and utilities) should now be installed in `$(go env GOPATH)/bin` (usually in /home/YOURUSER/go/bin). If you did
   not already add the bin directory to your system path during Go installation,
-  you are encouraged to do so now.
+  you are encouraged to do so now, you can do it with the following commands:
 
+  ```bash
+ export PATH=$PATH:/home/YOURUSER/go/bin
+```
+
+For more information, please visit:
+http://golang.org/doc/install
 
 ## Getting Started
 
