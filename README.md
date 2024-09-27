@@ -51,7 +51,14 @@ $ anumad
 ```
 
 ## Discord
-Join our discord server using the following link: https://discord.gg/8ZT93HctbQ
+Join our Discord server using the following link: https://discord.gg/8ZT93HctbQ
+
+## Telegram
+Join our Telegram channel using the following link: https://t.me/+I_nxFsUGsAk5ZDA0
+
+## Web
+Visit us at Anuma's website:  https://anuma.network
+
 
 ## License
 
